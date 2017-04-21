@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# 第1回 情報御輿会議
 
-You can use the [editor on GitHub](https://github.com/sudame/joho-yado/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 本日のスケジュール
+1. 今日のスケジュール確認
+* 御輿とは
+* みなさんにやってほしい役割
+* 情報御輿 局紹介
+* 情報御輿 委員決め
+* 委員内話し合い
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 御輿とは
+> 1年生が1か月かけて作製した御輿を担いで、 そのあとパフォーマンスをする宿舎祭のメイン企画のひとつ  
+規模が大きく、祭り全体を盛り上げる激アツな企画  
+日時：5月27日(土)(順延時28日）  
+展示示 9:30~16:00  
+   練り歩き・パフォーマンス 16:00~17:50  
+   表彰式 20:25~21:00  
+場所 :  
+   展示 : 平砂共用棟前  
+   練り歩き : メインストリート  
+   パフォーマンス : パフォーマンス会場  
+   表彰式 : 平砂テニスコートメインステージ
 
-### Markdown
+> *やど祭HPより*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## みなさんにやってほしい役割
 
-```markdown
-Syntax highlighted code block
+今日集まってもらったみなさんには、情報御輿の製作を引っ張っていってもらう、情報御輿委員に入っていただきたいです。
+委員は、「企画」「物品」「作業」「総務」「パフォーマンス」の各局に所属します。現在、「企画」「物品」「作業」「総務」「パフォーマンス」の副局長も空いていますので、そちらも併せて募集します。
 
-# Header 1
-## Header 2
-### Header 3
+## 情報御輿 局紹介
 
-- Bulleted
-- List
+* **企画**  
+  * 御輿のデザインや設計を行う局です。パフォーマンス局と連携して、情報御輿の「目に見える部分」を創っていきます。
+* **物品**
+  * 工具や材料の管理をします。
+* **作業**
+  * 御輿の「製作」の部分を担当します。委員の方には、作業の手順などの指示を出す立場になってほしいと思っています。
+* **総務**
+  * 他の局の補助など、全体的なことを行います。
+* **パフォーマンス**
+  * 御輿には「パフォーマンス」という出し物があります。これを担当する局です。企画局とともに、御輿全体を創っていきます。
+* **会計**
+  * お金の管理をします。 _委員の募集は行いません。_
+* **記録**
+  * 情報御輿製作の様子を写真などで記録します。積極的に委員の募集は行いませんが、興味がある人は気軽に声をかけてください。
 
-1. Numbered
-2. List
+## 情報御輿 委員決め
+<br /><br />
+自分の部署： ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sudame/joho-yado/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 局内話し合い
+特に話し合いの無い局は、そのまま解散して構いません。
